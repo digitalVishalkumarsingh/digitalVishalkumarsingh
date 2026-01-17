@@ -1,7 +1,6 @@
 Hi 👋, I'm Vishal Kumar Singh
 🚀 Backend-Focused Full Stack Developer
-🎓 BCA Student (2025) | MGKVP
-📍 Varanasi, Uttar Pradesh, India
+
 
 I build secure, scalable backend systems and real-world web applications that deliver value.
 
