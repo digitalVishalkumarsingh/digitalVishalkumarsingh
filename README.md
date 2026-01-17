@@ -1,5 +1,5 @@
 Hi 👋, I'm Vishal Kumar Singh
-🚀 Backend-Focused Full Stack Developer
+🚀  Full Stack Developer
 
 
 I build secure, scalable backend systems and real-world web applications that deliver value.
